@@ -1,0 +1,4 @@
+name: RpgHead
+main: head.Main
+version: 1.0
+depend: [ProtocolLib]

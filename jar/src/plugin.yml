@@ -1,0 +1,4 @@
+name: RpgHealth
+main: health.Main
+version: 1.0
+depend: [ProtocolLib]
